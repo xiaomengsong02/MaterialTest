@@ -1,2 +1,2 @@
 # MaterialTest
-![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/1.png)
+![Alt text](https://github.com/xiaomengsong02/MaterialTest/raw/master/Screenshots/1.png)
